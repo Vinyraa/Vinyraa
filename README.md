@@ -1,6 +1,6 @@
 <!-- Bannière GIF -->
 <p align="center">
-<img width="736" height="414" alt="✿" src="https://github.com/user-attachments/assets/0f402eac-c196-4328-8f4b-59016308ac49" />
+<img width="241" height="212" alt="téléchargement" src="https://github.com/user-attachments/assets/f6b22531-e140-4889-b704-761e0f314cd4" />
 </p>
 <!-- Titre -->
 <p align="center">
