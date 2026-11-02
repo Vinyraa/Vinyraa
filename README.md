@@ -4,12 +4,12 @@
 </p>
 <!-- Titre -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Times+New+Roman&weight=700&size=52&duration=3000&pause=100000&color=000008&center=true&vCenter=true&width=600&height=90&lines=%E2%9C%A0+VINY+%E2%9C%A0" />
+  <img src="https://readme-typing-svg.demolab.com?font=Times+New+Roman&weight=700&size=52&duration=3000&pause=100000&color=FFFFFF&center=true&vCenter=true&width=600&height=90&lines=%E2%9C%A0+VINY+%E2%9C%A0" />
 </p>
 
 <!-- Texte animé -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=20&pause=1500&color=000008&center=true&vCenter=true&width=700&lines=Redbull+Enjoyer;Reverse+lover+cat;" />
+  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=20&pause=1500&color=FFFFFF&center=true&vCenter=true&width=700&lines=Monster+Enjoyer;Cat+lover" />
 </p>
 
 <p align="center">
