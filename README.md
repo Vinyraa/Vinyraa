@@ -4,7 +4,7 @@
 </p>
 <!-- Titre -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Times+New+Roman&weight=700&size=52&duration=3000&pause=100000&color=FFFFFF&center=true&vCenter=true&width=600&height=90&lines=✿+VINY+✿" />
+  <img src="https://readme-typing-svg.demolab.com?font=Times+New+Roman&weight=700&size=52&duration=3000&pause=100000&color=FFFFFF&center=true&vCenter=true&width=600&height=90&lines=%E2%9C%BF+VINY+%E2%9C%BF" />
 </p>
 
 <!-- Texte animé -->
