@@ -4,7 +4,7 @@
 </p>
 <!-- Titre -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Times+New+Roman&weight=700&size=52&duration=3000&pause=100000&color=FFFFFF&center=true&vCenter=true&width=600&height=90&lines=%E2%9C%BF+VINY+%E2%9C%BF" />
+  <img src="https://readme-typing-svg.demolab.com?font=Times+New+Roman&weight=700&size=52&duration=3000&pause=100000&color=FFFFFF&center=true&vCenter=true&width=600&height=90&lines=%E2%9C%BF+Viny+%E2%9C%BF" />
 </p>
 
 <!-- Texte animé -->
@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0610,50:9b59d6,100:0a0610&height=2" width="80%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000:FFFFFF:000000&height=2" width="80%" />
 </p>
 
 <!-- À propos -->
