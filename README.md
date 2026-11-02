@@ -1,10 +1,10 @@
-**waawccb<!-- Bannière GIF -->
+<!-- Bannière GIF -->
 <p align="center">
 <img width="736" height="414" alt="✿" src="https://github.com/user-attachments/assets/0f402eac-c196-4328-8f4b-59016308ac49" />
 </p>
 <!-- Titre -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=52&duration=3000&pause=100000&color=9B59D6&center=true&vCenter=true&width=600&height=90&lines=%E2%9C%A0+CONDOR+%E2%9C%A0" />
+  <img src="https://readme-typing-svg.demolab.com?font=Times Roman&weight=700&size=52&duration=3000&pause=100000&color=000000&center=true&vCenter=true&width=600&height=90&lines=%E2%9C%A0+VINY+%E2%9C%A0" />
 </p>
 
 <!-- Texte animé -->
