@@ -4,12 +4,12 @@
 </p>
 <!-- Titre -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Times+New+Roman&weight=700&size=52&duration=3000&pause=100000&color=000000&center=true&vCenter=true&width=600&height=90&lines=%E2%9C%A0+VINY+%E2%9C%A0" />
+  <img src="https://readme-typing-svg.demolab.com?font=Times+New+Roman&weight=700&size=52&duration=3000&pause=100000&color=000008&center=true&vCenter=true&width=600&height=90&lines=%E2%9C%A0+VINY+%E2%9C%A0" />
 </p>
 
 <!-- Texte animé -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=20&pause=1500&color=B57EDC&center=true&vCenter=true&width=700&lines=Redbull+Enjoyer;Reverse+engineer+by+obsession;Nerd+since+the+age+of+7;Segfaults+do+not+scare+me;Poker+face+on%2C+headshots+loading" />
+  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=20&pause=1500&color=000008&center=true&vCenter=true&width=700&lines=Redbull+Enjoyer;Reverse+lover+cat;" />
 </p>
 
 <p align="center">
