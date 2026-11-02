@@ -27,7 +27,7 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:FFFFFF,100:000000&height=2" width="80%" />
 </p>
 <p align="center">
-<img width="736" height="245" alt="téléchargement__23_-removebg-preview" src="https://github.com/user-attachments/assets/36f4239c-41be-4e9e-a0f0-813ac5b9df03" />
+<img width="247" height="352" alt="Vatista (Under Night In-Birth) GIF Animations" src="https://github.com/user-attachments/assets/5dff4016-bcbb-48c4-a835-123fd36ede7f" />
 
 <!-- Techs -->
 <h3 align="center">✿ SelfSkills ✿</h3>
