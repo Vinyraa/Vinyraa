@@ -26,13 +26,13 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:FFFFFF,100:000000&height=2" width="80%" />
 </p>
-
 <img width="500" height="281" alt="Vatista (Under Night In-Birth) GIF Animations" src="https://github.com/user-attachments/assets/d6f28bff-44de-474b-8117-db4d6da3e383" />
 
 <!-- Techs -->
 <h3 align="center">✿ SelfSkills ✿</h3>
 
 <p align="center">
+
   <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" />
 </p>
 
