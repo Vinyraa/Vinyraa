@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000:FFFFFF:000000&height=2" width="80%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:FFFFFF,100:000000&height=2" width="80%" />
 </p>
 
 <!-- À propos -->
