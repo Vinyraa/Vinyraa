@@ -30,7 +30,7 @@
 <img width="247" height="352" alt="Vatista (Under Night In-Birth) GIF Animations" src="https://github.com/user-attachments/assets/5dff4016-bcbb-48c4-a835-123fd36ede7f" />
 
 <!-- Techs -->
-<h3 align="center">✿ SelfSkills ✿</h3>
+<h3 align="center">❄ SelfSkills ❄</h3>
 
 <p align="center">
 
@@ -38,8 +38,8 @@
 </p>
 
 <!-- Intérêts -->
-<h3 align="center">✿ Obsessions ✿</h3>
+<h3 align="center">❄ Obsessions ❄</h3>
 
 <p align="center">
- Husband.
+ Mi husband.
 </p>
